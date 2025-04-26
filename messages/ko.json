@@ -1,0 +1,32 @@
+{
+  "HomePage": {
+    "Metadata": {
+      "title": "SKIN1004 | 순수한 자연",
+      "description": "www.skin1004.com"
+    }
+  },
+  "AboutPage": {
+    "Metadata": {
+      "title": "소개 SKIN1004",
+      "description": "www.skin1004.com/about"
+    }
+  },
+  "ContactPage": {
+    "Metadata": {
+      "title": "연락처 SKIN1004",
+      "description": "www.skin1004.com/contact"
+    }
+  },
+  "BlogPage": {
+    "Metadata": {
+      "title": "블로그 SKIN1004",
+      "description": "www.skin1004.com/blog"
+    }
+  },
+  "NavbarMenu": {
+    "home": "홈",
+    "about": "소개",
+    "contact": "연락처",
+    "blog": "블로그"
+  }
+}

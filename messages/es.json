@@ -1,0 +1,32 @@
+{
+  "HomePage": {
+    "Metadata": {
+      "title": "SKIN1004 | NATURALEZA VIRGEN",
+      "description": "www.skin1004.com"
+    }
+  },
+  "AboutPage": {
+    "Metadata": {
+      "title": "SOBRE SKIN1004",
+      "description": "www.skin1004.com/about"
+    }
+  },
+  "ContactPage": {
+    "Metadata": {
+      "title": "CONTACTO SKIN1004",
+      "description": "www.skin1004.com/contact"
+    }
+  },
+  "BlogPage": {
+    "Metadata": {
+      "title": "BLOG SKIN1004",
+      "description": "www.skin1004.com/blog"
+    }
+  },
+  "NavbarMenu": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "blog": "Blog"
+  }
+}

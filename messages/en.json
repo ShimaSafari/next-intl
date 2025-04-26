@@ -1,0 +1,32 @@
+{
+  "HomePage": {
+    "Metadata": {
+      "title": "SKIN1004 | UNTOUCHED NATURE",
+      "description": "www.skin1004.com"
+    }
+  },
+  "AboutPage": {
+    "Metadata": {
+      "title": "ABOUT SKIN1004",
+      "description": "www.skin1004.com"
+    }
+  },
+  "ContactPage": {
+    "Metadata": {
+      "title": "CONTACT SKIN1004",
+      "description": "www.skin1004.com"
+    }
+  },
+  "BlogPage": {
+    "Metadata": {
+      "title": "BLOG SKIN1004",
+      "description": "www.skin1004.com"
+    }
+  },
+  "NavbarMenu": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "blog": "Blog"
+  }
+}
