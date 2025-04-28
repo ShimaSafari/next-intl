@@ -1,5 +1,10 @@
 {
   "HomePage": {
+    "HeroSection": {
+      "HeroTitle": "Find Serenity in the Embrace",
+      "HeroSubtitle": "of Untouched Nature",
+      "HeroButton": "SHOP NOW"
+    },
     "Metadata": {
       "title": "SKIN1004 | UNTOUCHED NATURE",
       "description": "www.skin1004.com"
@@ -23,7 +28,7 @@
       "description": "www.skin1004.com"
     }
   },
-  "NavbarMenu": {
+  "Menu": {
     "home": "Home",
     "about": "About",
     "contact": "Contact",

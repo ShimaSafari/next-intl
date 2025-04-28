@@ -1,7 +1,12 @@
 {
   "HomePage": {
+    "HeroSection": {
+      "HeroTitle": "자연의 품에서 평온을 찾으세요",
+      "HeroSubtitle": "손대지 않은 자연",
+      "HeroButton": "지금 쇼핑하기"
+    },
     "Metadata": {
-      "title": "SKIN1004 | 순수한 자연",
+      "title": "SKIN1004 | 손대지 않은 자연",
       "description": "www.skin1004.com"
     }
   },
@@ -23,7 +28,7 @@
       "description": "www.skin1004.com/blog"
     }
   },
-  "NavbarMenu": {
+  "Menu": {
     "home": "홈",
     "about": "소개",
     "contact": "연락처",

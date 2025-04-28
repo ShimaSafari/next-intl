@@ -1,7 +1,12 @@
 {
   "HomePage": {
+    "HeroSection": {
+      "HeroTitle": "Encuentra la serenidad en el abrazo",
+      "HeroSubtitle": "de la naturaleza intacta",
+      "HeroButton": "COMPRAR AHORA"
+    },
     "Metadata": {
-      "title": "SKIN1004 | NATURALEZA VIRGEN",
+      "title": "SKIN1004 | NATURALEZA INTACTA",
       "description": "www.skin1004.com"
     }
   },
@@ -23,7 +28,7 @@
       "description": "www.skin1004.com/blog"
     }
   },
-  "NavbarMenu": {
+  "Menu": {
     "home": "Inicio",
     "about": "Acerca de",
     "contact": "Contacto",
